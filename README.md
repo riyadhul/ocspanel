@@ -12,4 +12,4 @@ Auto-Install Script :-
   Reload privilege tables now? [Y/n]: y
   -----------------------------------------------------------------------
   
-3. apt-get install wget && wget https://raw.github.com/blazevpn/ocspanel/master/ocsdebian7.sh && ./ocsdebian7.sh
+3. apt-get install wget && wget https://raw.github.com/riyadhul/ocspanel/master/ocsdebian7.sh && ./ocsdebian7.sh
